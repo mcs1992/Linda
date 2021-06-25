@@ -1,10 +1,11 @@
 {
-    "Format": "1.23.0",
-    "Changes": [
-       {
-          "Action": "Load",
-          "Target": "Animals/dog1",
-          "FromFile": "dog1.png"
-       }
-    ]
+    "Name": "Linda",
+    "Author": "Trolldere",
+    "Version": "1.0.0",
+    "Description": "Linda the Rottsky",
+    "UniqueID": "Trolldere.Linda",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+    }
 }
